@@ -1,6 +1,8 @@
 tdd-workshop-v2
 ===============
 
+### Repository moved to https://github.com/mobile-warsaw/tdd-workshop-v2
+
 ## Setup
 
 - Check whether the app compiles
@@ -12,3 +14,4 @@ tdd-workshop-v2
 ## Resources
 - [Cedar](https://github.com/pivotal/cedar)
 - [Expecta](https://github.com/specta/expecta)
+
