@@ -1,1 +1,1 @@
-### Repository moved to https://github.com/mobile-warsaw/tdd-workshop-v2
+### Repository moved to https://github.com/mobile-warsaw/ios-tdd-workshop
